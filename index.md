@@ -51,7 +51,7 @@ JavaScript Requirements:
 Other Requirements:
     * Link at least two questions you used from Stack Overflow to the page and what they helped you solve
     * If you didn't need anything from SO just link two interesting things you learned on SO
-    * Site can open on double click of the html file or through live-server
+    * The assignment presented on GitHub requires at least three commits to the student's repository
 
 ## Tech Tools
 
@@ -60,18 +60,13 @@ Other Requirements:
 
 A Text Editor is program designed to optimize the experience of writing code. It has many features that something like Microsoft Word would not. A few of these would be syntax highlighting, a file navigation sidebar, language autocomplete, integration with Git and GitHub, code linting, a built in command line interface, and more. The editor I would suggest having all students install and use is VS Code, made by Microsoft. This is probably the most popular text editor in the industry today which is a major selling point in itself. It's also just a great text editor for beginners because of its many helpful features. However, any text editor that a student feels comfortable with will do the job. It may just be easier to communicate with students when everyone is using the same editor.
 
-### Free Code Camp
-<img src="images/freecodecamp.png">
-
-Free Code Camp is a nonprofit, open source website devoted to teaching people how to code. It has a very simple interface and is great because progress is very measurable. This is an easy thing to assign because Free Code Camp does all the marking for automatically. All the instructor needs to do is check completion. It's also guaranteed to help students improve their coding skills and teach them the nuances of different coding languages. In coding it's all about learning by doing, and Free Code Camp Provides that.
-
 ### Moodle (or any online classroom software)
 <img src="images/moodle.jpg">
 
 Moodle is a software that will be familiar to any University of Lethbridge student. It is a web application usedto host online classes. This will be necessary in this class because the project requires students to post the web page they create and have other students comment on their work. Moodle has this built in but then it can also be used for things like assignment grading. The software in this situation does not have to be Moodle, but any classroom management software where forums can be created. I use Moodle here because it's a software I am familiar with on the student side.
 
 ### GitHub
-<img src="images/github.jpg">
+<img src="images/github.png">
 
 GitHub is the central location for all open source software on the web. The site has over a hundred million repositories. The name originates from the version control software it uses called *Git*. Git is the version control software developed by Linus Torvalds used in the open source operating system *Linux*. GitHub is a useful tool to learn because it is so commonly used in industry so it is a great skill to learn. It's also useful to use for updating software while still having ease access to old versions of the repository.
 
@@ -89,21 +84,44 @@ Stack Overflow is the number one place on the internet for finding answers to co
 
 ### General Lesson Structure
 
-The project will take place of the course of a week. The project will be introduced on the first day and students will be able to work ahead as far as they want throughout the week. Each day there will be a video conference lesson that will cover various requirements of the project. These will be covered in the sequence that the project should be logically worked on. After each video conference lesson there will be a question and answer period as well as an opportunity to set up one-on-one sessions with students. Below is a brief breakdown of what the lesson of each day will include.
+The project will take place of the course of a week. The project will be introduced on the first day and students will be able to work ahead as far as they want throughout the week. Students will have already learned the basics of HTML, CSS, and JavaScript, and this project is best used a unit-end summative project. Each day there will be a video conference lesson that will cover various requirements of the project. These will be covered in the sequence that the project should be logically worked on. After each video conference lesson there will be a question and answer period as well as an opportunity to set up one-on-one sessions with students. Below is a brief breakdown of what the lesson of each day will include.
 
 ### Day 1: Project Introduction
-Instructor does an introduction of the project. Talks about the project rubric and expectations. Gives a brief overview of all software tools that will be used for the project.
+* Instructor does an introduction of the project
+* Talks about the project rubric and expectations
+* Gives a brief overview of all software tools that will be used for the project
+* Instructor fields any questions about the project from students
+* Instructor will show students who are interested how to switch text editors to VS Code
+* VS Code will be compared to other editors to show its benefits
+* Other text editors will be briefly introduced and a few features will be shown
+* Instructor will show students how they can transfer all former preferences into VS Code
 
-### Day 2
-* FCC
-* How to set up npm and your work station with your chosen code editor
+### Day 2: Stack Overflow
+* Instructor will introduce the website Stack Overflow. Many student may already be familiar
+* Instructor will google a few questions and show how easy it is to find Stack Overflow answers
+* The home page of the website will be shown and students will be shown how to post questions
+* Account creation will be shown by the instructor
+* Instructor will show students how to favourite questions for future reference
 
-### Day 3
-* FCC
-* Create SO account and show how site works
+### Day 3: GitHub
+* The website GitHub is introduced to students
+* Instructor will show a video about the impact of GitHub of open source software
+* Instructor will go through the basic features of GitHub using a screen share
+* Account creation tutorial will be shown be instructor
+* The basics of the software Git will be introduced that GitHub is based on
+* Instructor will go through how students will upload their own repository onto GitHub
+* Instructor will show students how to make a commit to their repository
 
-### Day 4
-* Exploration of Code Pen and setup of account
+### Day 4: Code Pen
+* The website Code Pen is introduced to students
+* Instructor will go through Code Pen and show various uses of Code Pen
+* Instructor will show how to set up a Code Pen account
+* The in-browser text editor will be shown and a basic "Pen" will be set up
+* Students will be instructed to find a few Pens that will be useful for their website
 
-### Day 5
-* Post and forum comments
+### Day 5: Peer Evaluations
+* Students will have completed projects for this class period
+* Students will be instructed to post the links to their GitHub repositories
+* Each student will create a forum posting with their repository link
+* Each student will clone the repository of two other students and examine their webpage
+* Students will leave a reply post with a peer evaluation for each cloned repository
