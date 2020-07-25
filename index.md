@@ -29,70 +29,70 @@ Students will create a website to present content of their choosing. The site mu
 
 ### HTML (12 marks)
 
-    Head Tag /2:
+Head Tag /2:
 
-        * Document must contain head tag
-        * Head tag must contain description, author, and site title
+    * Document must contain head tag
+    * Head tag must contain description, author, and site title
 
-    Nav Bar /3:
+Nav Bar /3:
 
-        * must have a nav bar
-        * must have a link to at least one other webpage (can be any website)
-        * must stick to the top of the page on scroll (use "position: fixed" on stylesheet)
-    
-    Tags /6:
+    * must have a nav bar
+    * must have a link to at least one other webpage (can be any website)
+    * must stick to the top of the page on scroll (use "position: fixed" on stylesheet)
 
-        * Use of at least two levels of headings
-        * Use of a paragraph tag
-        * Use of an ordered or unordered list tag
-        * Use of at least one image
-        * Use of at least one iframe with an embedded Youtube video
-        * Use of a button
+Tags /6:
 
-    Imports /1:
+    * Use of at least two levels of headings
+    * Use of a paragraph tag
+    * Use of an ordered or unordered list tag
+    * Use of at least one image
+    * Use of at least one iframe with an embedded Youtube video
+    * Use of a button
 
-        * Import at least one style sheet and one JavaScript file
+Imports /1:
+
+    * Import at least one style sheet and one JavaScript file
 
 ### CSS (14 marks)
 
-    Style Categories /3:
+Style Categories /3:
 
-        * Custom style HTML tags using the tag name, a class name, and an ID
-    
-    Style Attributes /8:
+    * Custom style HTML tags using the tag name, a class name, and an ID
 
-        * Style document using all of the following attributes in your stylesheet
-            * font-family
-            * color
-            * padding
-            * margin
-            * float
-            * position
-            * background-color
-            * width
+Style Attributes /8:
 
-    CSS Animation (Code Pen) /3:
+    * Style document using all of the following attributes in your stylesheet
+        * font-family
+        * color
+        * padding
+        * margin
+        * float
+        * position
+        * background-color
+        * width
 
-        * A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
+CSS Animation (Code Pen) /3:
+
+    * A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
         
 ### JavaScript (5 marks)
 
-    Button Event /5:
+Button Event /5:
 
-        * Use an event listener attached to a button to create an event that happens on click
+    * Use an event listener attached to a button to create an event that happens on click
 
 ### Other (8 marks)
 
-    Stack Overflow /4:
+Stack Overflow /4:
 
-        * Link at least two questions you used from Stack Overflow to the page and what they helped you solve
-        * If you didn't need anything from SO just link two interesting things you learned on SO
-        * Give a couple sentences on what you learned from these questions
-    
-    GitHub /4:
+    * Link at least two questions you used from Stack Overflow to the page and what they helped you solve
+    * If you didn't need anything from SO just link two interesting things you learned on SO
+    * Give a couple sentences on what you learned from these questions
 
-        * The assignment was published using a GitHub repository which was linked in the student forums
-        * The repository had at least two commits.
+GitHub /4:
+
+    * The assignment was published using a GitHub repository which was linked in the student forums
+    * The repository had at least two commits.
 
 ## Tech Tools
 
