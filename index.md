@@ -17,7 +17,7 @@ To connect with my teacher and peers in this class I plan to comment a lot on fo
 
 ---
 
-# Web-based Resource Project
+# Assignment 4: Web-based Resource Project
 
 ## Objectives
 
@@ -31,27 +31,27 @@ Students will create a website to present content of their choosing. The site mu
 
 **Head Tag** /2:
 
-    * Document must contain head tag
-    * Head tag must contain description, author, and site title
+* Document must contain head tag
+* Head tag must contain description, author, and site title
 
 **Nav Bar** /3:
 
-    * must have a nav bar
-    * must have a link to at least one other webpage (can be any website)
-    * must stick to the top of the page on scroll (use "position: fixed" on stylesheet)
+* must have a nav bar
+* must have a link to at least one other webpage (can be any website)
+* must stick to the top of the page on scroll (use "position: fixed" on stylesheet)
 
 **Tags** /6:
 
-    * Use of at least two levels of headings
-    * Use of a paragraph tag
-    * Use of an ordered or unordered list tag
-    * Use of at least one image
-    * Use of at least one iframe with an embedded Youtube video
-    * Use of a button
+* Use of at least two levels of headings
+* Use of a paragraph tag
+* Use of an ordered or unordered list tag
+* Use of at least one image
+* Use of at least one iframe with an embedded Youtube video
+* Use of a button
 
 **Imports** /1:
 
-    * Import at least one style sheet and one JavaScript file
+* Import at least one style sheet and one JavaScript file
 
 ### CSS (14 marks)
 
@@ -61,15 +61,16 @@ Students will create a website to present content of their choosing. The site mu
 
 **Style Attributes** /8:
 
-Style document using all of the following attributes in your stylesheet
-    * font-family
-    * color
-    * padding
-    * margin
-    * float
-    * position
-    * background-color
-    * width
+Style document using all of the following attributes in your stylesheet:
+
+* font-family
+* color
+* padding
+* margin
+* float
+* position
+* background-color
+* width
 
 **CSS Animation (Code Pen)** /3:
 
@@ -170,5 +171,7 @@ The project will take place of the course of a week. The project will be introdu
 ## Project Exemplar
 
 I have created a project exemplar for students to have an idea of what their page should look like. I have included both a link to the page and a download link for the exemplar repository that includes the HTML, CSS, Javascript, and image file.
+
 [Link to exemplar page](exemplar/exemp.html)
+
 [Download exemplar folder](exemplar.zip)
