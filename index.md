@@ -29,18 +29,18 @@ Students will create a website to present content of their choosing. The site mu
 
 ### HTML (12 marks)
 
-Head Tag /2:
+**Head Tag** /2:
 
     * Document must contain head tag
     * Head tag must contain description, author, and site title
 
-Nav Bar /3:
+**Nav Bar** /3:
 
     * must have a nav bar
     * must have a link to at least one other webpage (can be any website)
     * must stick to the top of the page on scroll (use "position: fixed" on stylesheet)
 
-Tags /6:
+**Tags** /6:
 
     * Use of at least two levels of headings
     * Use of a paragraph tag
@@ -49,50 +49,50 @@ Tags /6:
     * Use of at least one iframe with an embedded Youtube video
     * Use of a button
 
-Imports /1:
+**Imports** /1:
 
     * Import at least one style sheet and one JavaScript file
 
 ### CSS (14 marks)
 
-Style Categories /3:
+**Style Categories** /3:
 
-    * Custom style HTML tags using the tag name, a class name, and an ID
+* Custom style HTML tags using the tag name, a class name, and an ID
 
-Style Attributes /8:
+**Style Attributes** /8:
 
-    * Style document using all of the following attributes in your stylesheet
-        * font-family
-        * color
-        * padding
-        * margin
-        * float
-        * position
-        * background-color
-        * width
+Style document using all of the following attributes in your stylesheet
+    * font-family
+    * color
+    * padding
+    * margin
+    * float
+    * position
+    * background-color
+    * width
 
-CSS Animation (Code Pen) /3:
+**CSS Animation (Code Pen)** /3:
 
-    * A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
+* A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
         
 ### JavaScript (5 marks)
 
-Button Event /5:
+**Button Event** /5:
 
-    * Use an event listener attached to a button to create an event that happens on click
+* Use an event listener attached to a button to create an event that happens on click
 
 ### Other (8 marks)
 
-Stack Overflow /4:
+**Stack Overflow** /4:
 
-    * Link at least two questions you used from Stack Overflow to the page and what they helped you solve
-    * If you didn't need anything from SO just link two interesting things you learned on SO
-    * Give a couple sentences on what you learned from these questions
+* Link at least two questions you used from Stack Overflow to the page and what they helped you solve
+* If you didn't need anything from SO just link two interesting things you learned on SO
+* Give a couple sentences on what you learned from these questions
 
-GitHub /4:
+**GitHub** /4:
 
-    * The assignment was published using a GitHub repository which was linked in the student forums
-    * The repository had at least two commits.
+* The assignment was published using a GitHub repository which was linked in the student forums
+* The repository had at least two commits.
 
 ## Tech Tools
 
@@ -169,7 +169,6 @@ The project will take place of the course of a week. The project will be introdu
 
 ## Project Exemplar
 
-Below is a compressed repository that serves as an example for the project. To view the project, simply download the file and unzip. Then open the html file in a browser.
-
-<a href="exemplar/exemp.html">Link to exemplar page></a>
-<a href="exemplar.zip">Right click to download the full exemplar folder</a>
+I have created a project exemplar for students to have an idea of what their page should look like. I have included both a link to the page and a download link for the exemplar repository that includes the HTML, CSS, Javascript, and image file.
+[Link to exemplar page](exemplar/exemp.html)
+[Download exemplar folder](exemplar.zip)
