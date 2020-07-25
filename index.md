@@ -19,17 +19,15 @@ To connect with my teacher and peers in this class I plan to comment a lot on fo
 
 # Web-based Resource Project
 
-## Assignment
-
-### Objectives
+## Objectives
 
 OBJECTIVES
 
-### Requirements
+## Requirements
 
 Students will create a website to present content of their choosing. The site must contain the following list of features:
 
-HTML Requirements /12:
+### HTML (12 marks)
 
     Head Tag /2:
 
@@ -55,11 +53,11 @@ HTML Requirements /12:
 
         * Import at least one style sheet and one JavaScript file
 
-CSS Requirements /14:
+### CSS (14 marks)
 
     Style Categories /3:
 
-        Custom style HTML tags using the tag name, a class name, and an ID
+        * Custom style HTML tags using the tag name, a class name, and an ID
     
     Style Attributes /8:
 
@@ -76,14 +74,14 @@ CSS Requirements /14:
     CSS Animation (Code Pen) /3:
 
         * A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
-
-JavaScript Requirements /5:
+        
+### JavaScript (5 marks)
 
     Button Event /5:
 
         * Use an event listener attached to a button to create an event that happens on click
 
-Other Requirements /8:
+### Other (8 marks)
 
     Stack Overflow /4:
 
