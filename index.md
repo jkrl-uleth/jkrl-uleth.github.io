@@ -29,29 +29,72 @@ OBJECTIVES
 
 Students will create a website to present content of their choosing. The site must contain the following list of features:
 
-HTML Requirements:
-    * A header bar with the title of the site
-    * A top or side nav bar with a link to at least one other page
-    * Use of at least two levels of headings
-    * Use of at least one image
-    * Use of at least one iframe
-    * Import at least one style sheet and one JavaScript file
+**HTML Requirements** /12:
 
-CSS Requirements:
-    * Use of at least five custom CSS styles
-    * styles of all three of a tag type, class name, and ID
-    * style at least one element using the "position" attribute
-    * styles using the attributes "border", "padding", and "margin"
-    * Adapt one CSS animation from Code Pen to your own web page
+    Head Tag /2:
 
-JavaScript Requirements:
-    * Use of at least one event listener
-    * Dynamic page update based on form submission
+        * Document must contain head tag
+        * Head tag must contain description, author, and site title
 
-Other Requirements:
-    * Link at least two questions you used from Stack Overflow to the page and what they helped you solve
-    * If you didn't need anything from SO just link two interesting things you learned on SO
-    * The assignment presented on GitHub requires at least three commits to the student's repository
+    Nav Bar /3:
+
+        * must have a nav bar
+        * must have a link to at least one other webpage (can be any website)
+        * must stick to the top of the page on scroll (use "position: fixed" on stylesheet)
+    
+    Tags /6:
+
+        * Use of at least two levels of headings
+        * Use of a paragraph tag
+        * Use of an ordered or unordered list tag
+        * Use of at least one image
+        * Use of at least one iframe with an embedded Youtube video
+        * Use of a button
+
+    Imports /1:
+
+        * Import at least one style sheet and one JavaScript file
+
+**CSS Requirements** /14:
+
+    Style Categories /3:
+
+        Custom style HTML tags using the tag name, a class name, and an ID
+    
+    Style Attributes /8:
+
+        * Style document using all of the following attributes in your stylesheet
+            * font-family
+            * color
+            * padding
+            * margin
+            * float
+            * position
+            * background-color
+            * width
+
+    CSS Animation (Code Pen) /3:
+
+        * A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
+        
+**JavaScript Requirements** /5:
+
+    Button Event /5:
+
+        * Use an event listener attached to a button to create an event that happens on click
+
+**Other Requirements** /8:
+
+    Stack Overflow /4:
+
+        * Link at least two questions you used from Stack Overflow to the page and what they helped you solve
+        * If you didn't need anything from SO just link two interesting things you learned on SO
+        * Give a couple sentences on what you learned from these questions
+    
+    GitHub /4:
+
+        * The assignment was published using a GitHub repository which was linked in the student forums
+        * The repository had at least two commits.
 
 ## Tech Tools
 
@@ -125,3 +168,7 @@ The project will take place of the course of a week. The project will be introdu
 * Each student will create a forum posting with their repository link
 * Each student will clone the repository of two other students and examine their webpage
 * Students will leave a reply post with a peer evaluation for each cloned repository
+
+## Project Exemplar
+
+Below is a compressed repository that serves as an example for the project. To view the project, simply download the file and unzip. Then open the html file in a browser.
