@@ -29,7 +29,7 @@ OBJECTIVES
 
 Students will create a website to present content of their choosing. The site must contain the following list of features:
 
-**HTML Requirements** /12:
+HTML Requirements /12:
 
     Head Tag /2:
 
@@ -55,7 +55,7 @@ Students will create a website to present content of their choosing. The site mu
 
         * Import at least one style sheet and one JavaScript file
 
-**CSS Requirements** /14:
+CSS Requirements /14:
 
     Style Categories /3:
 
@@ -76,14 +76,14 @@ Students will create a website to present content of their choosing. The site mu
     CSS Animation (Code Pen) /3:
 
         * A Simple hoverable CSS animation found on Code Pen. This can be directly copied and pasted as long as the animation is labelled and the link is provided
-        
-**JavaScript Requirements** /5:
+
+JavaScript Requirements /5:
 
     Button Event /5:
 
         * Use an event listener attached to a button to create an event that happens on click
 
-**Other Requirements** /8:
+Other Requirements /8:
 
     Stack Overflow /4:
 
