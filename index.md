@@ -170,3 +170,6 @@ The project will take place of the course of a week. The project will be introdu
 ## Project Exemplar
 
 Below is a compressed repository that serves as an example for the project. To view the project, simply download the file and unzip. Then open the html file in a browser.
+
+<a href="exemplar/exemp.html">Link to exemplar page></a>
+<a href="exemplar.zip">Right click to download the full exemplar folder</a>
